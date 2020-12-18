@@ -1,0 +1,13 @@
+C:\Users\Vitor Manoel\Desktop\ObjetoComoArgumento\bin\Debug\netcoreapp3.1\ObjetoComoArgumento.exe
+C:\Users\Vitor Manoel\Desktop\ObjetoComoArgumento\bin\Debug\netcoreapp3.1\ObjetoComoArgumento.deps.json
+C:\Users\Vitor Manoel\Desktop\ObjetoComoArgumento\bin\Debug\netcoreapp3.1\ObjetoComoArgumento.runtimeconfig.json
+C:\Users\Vitor Manoel\Desktop\ObjetoComoArgumento\bin\Debug\netcoreapp3.1\ObjetoComoArgumento.runtimeconfig.dev.json
+C:\Users\Vitor Manoel\Desktop\ObjetoComoArgumento\bin\Debug\netcoreapp3.1\ObjetoComoArgumento.dll
+C:\Users\Vitor Manoel\Desktop\ObjetoComoArgumento\bin\Debug\netcoreapp3.1\ObjetoComoArgumento.pdb
+C:\Users\Vitor Manoel\Desktop\ObjetoComoArgumento\obj\Debug\netcoreapp3.1\ObjetoComoArgumento.csprojAssemblyReference.cache
+C:\Users\Vitor Manoel\Desktop\ObjetoComoArgumento\obj\Debug\netcoreapp3.1\ObjetoComoArgumento.AssemblyInfoInputs.cache
+C:\Users\Vitor Manoel\Desktop\ObjetoComoArgumento\obj\Debug\netcoreapp3.1\ObjetoComoArgumento.AssemblyInfo.cs
+C:\Users\Vitor Manoel\Desktop\ObjetoComoArgumento\obj\Debug\netcoreapp3.1\ObjetoComoArgumento.csproj.CoreCompileInputs.cache
+C:\Users\Vitor Manoel\Desktop\ObjetoComoArgumento\obj\Debug\netcoreapp3.1\ObjetoComoArgumento.dll
+C:\Users\Vitor Manoel\Desktop\ObjetoComoArgumento\obj\Debug\netcoreapp3.1\ObjetoComoArgumento.pdb
+C:\Users\Vitor Manoel\Desktop\ObjetoComoArgumento\obj\Debug\netcoreapp3.1\ObjetoComoArgumento.genruntimeconfig.cache
